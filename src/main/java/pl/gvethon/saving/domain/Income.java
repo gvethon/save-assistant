@@ -5,7 +5,7 @@ import org.springframework.data.annotation.Id;
 /**
  * Created by Tomek on 2017-03-31.
  */
-public class Income {
+class Income {
 
 	@Id
 	private String id;
